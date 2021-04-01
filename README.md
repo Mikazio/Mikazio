@@ -1,6 +1,7 @@
 ### Hi there 👋 it is me Varin!
-- 🔭 I’m currently working on Vonder Thailand
+- 🔭 I’m currently working at Vonder Thailand
 - 🌱 I’m currently learning Terraform
+- ⚡ Fun fact: I am very into stock trading even tho I am not very good at it.
 <hr>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikazio&&theme=dracula" />
