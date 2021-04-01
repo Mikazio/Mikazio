@@ -1,6 +1,17 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikazio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikazio&show_icons=true&theme=dracula)
+### Hi there 👋 it is me Varin!
+- 🔭 I’m currently working on Vonder Thailand
+- 🌱 I’m currently learning Terraform
+<hr>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikazio&&theme=dracula" />
+</a>
+
+<hr>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Mikazio&show_icons=true&theme=dracula"> 
+</a>
+
 <!--
 **Mikazio/Mikazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
