@@ -10,7 +10,7 @@
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Mikazio&show_icons=true&theme=dracula"> 
+    <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Mikazio&show_icons=true&theme=dracula&count_private=true"> 
 </a>
 
 <!--
